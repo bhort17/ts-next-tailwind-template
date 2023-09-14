@@ -12,9 +12,9 @@ function Header() {
   return (
     <div className='flex flex-row items-center gap-4'>
       <div className='flex flex-col'>
-        <h1>Typescript - Tailwind - Next.js</h1>
+        <h1>Brian Horton</h1>
         <p className='text-quaternary'>
-          An opinionated template to get you going.
+          Mechanical Engineer
         </p>
       </div>
     </div>
